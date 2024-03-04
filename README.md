@@ -1,5 +1,5 @@
 # My Interview Journey
-A decision-making app for an interview where you can navigate through a decision tree by answering yes or no questions.
+A decision-making app for an interview where you can navigate through a decision tree by answering Yes or No questions.
 
 After answering all the questions, you will only know if you get a job. Good luck!
 
