@@ -1,0 +1,30 @@
+1,6,2,Go to an interview,Is interviewer in office right now?
+2,5,3,Interviewer is not in office,Ask his secretary is he going to do interview today?
+3,1,6,Go for lunch but one customer in the shop has food poisoning so theres a change you might get it,If you have food poisoning then schedule the interview for another day
+4,3,6,-,Is the weather nice?
+5,4,6,-,Is it after lunch time?
+6,8,7,Interviewer is in office,Does interviewer in a good mood?
+7,8,6,Give him a gift you prepare for your friend,Does he like it?
+8,9,13,START THE INTERVIEW,Are you nervous?
+9,10,13,-,Ask him if you can get a glass of water?
+10,13,11,-,Is the water dispenser around?
+11,12,13,-,Ask interviewer if you can go out to buy a drink?
+12,1,13,-,You too nervous so you schedule the interview for another day?
+13,15,14,Sit down and begin your introduction,Do you panic during your introduction?
+14,16,19,Demonstrate your impressive personal project,Does interviewer require you to show him more?
+15,21,14,Since you have high grade at university. You use it to make up for your bad performance during introduction,Does the interviewer impressed with your grade?
+16,19,17,You run out of things to say. So you talk about your cute dog!,He also have a dog and happy to hear your story?
+17,27,18,-,Interviewer thinks you lack of experience?
+18,19,27,-,Your parent has a cat and the interviewer also interested in cat?
+19,20,27,Interviewer is not fully satisfy with your performance. But there is an employee he wants to fire ASAP,He choose to fire the employee?
+20,29,22,Since there is an empty position so you can fill in to that position,He ask you if you happy with minimum wage?
+21,23,22,Interviewer is very happy about you!,He wants to know if you want to commit to this position for a long time?
+22,28,24,-,Do you have a better offer from another company?
+23,30,22,You know you get bored of this job,Are you going to lie to the interviewer?
+24,25,26,You don't have a job right now and too broke,You have no other choice but to take this job?
+25,27,29,-,You negotiate for a better salary
+26,30,25,You explain your situation to the interviewer,Does he understand your situation?
+27,0,0,You failed the interview and don't get the job,-
+28,0,0,Unfortunately! You declined the offer,-
+29,0,0,Congratulation!!! You successfully got this job!!!,-
+30,0,0,Congratulation!!! You got a senior position!!,-
